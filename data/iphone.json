@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 12 Pro",
+    "brand": "Apple",
+    "price": "$999",
+    "release_date": "October 23, 2020",
+    "features": [
+      "A14 Bionic chip",
+      "6.1-inch Super Retina XDR display",
+      "Pro camera system",
+      "5G capable",
+      "Ceramic Shield front cover"
+    ],
+    "picture": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iPhone SE (2020)",
+    "brand": "Apple",
+    "price": "$399",
+    "release_date": "April 24, 2020",
+    "features": [
+      "A13 Bionic chip",
+      "4.7-inch Retina HD display",
+      "Single-camera system",
+      "Touch ID",
+      "Affordable pricing"
+    ],
+    "picture": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "price": "$799",
+    "release_date": "September 24, 2021",
+    "features": [
+      "A15 Bionic chip",
+      "6.1-inch Super Retina XDR display",
+      "Dual-camera system",
+      "5G capable",
+      "Ceramic Shield front cover"
+    ],
+    "picture": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg"
+  },
+  {
+    "id": 4,
+    "name": "iPhone 13 Pro Max",
+    "brand": "Apple",
+    "price": "$1099",
+    "release_date": "September 24, 2021",
+    "features": [
+      "A15 Bionic chip",
+      "6.7-inch Super Retina XDR display",
+      "Pro camera system",
+      "5G capable",
+      "Ceramic Shield front cover"
+    ],
+    "picture": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
+  },
+  {
+    "id": 5,
+    "name": "iPhone 11",
+    "brand": "Apple",
+    "price": "$699",
+    "release_date": "September 20, 2019",
+    "features": [
+      "A13 Bionic chip",
+      "6.1-inch Liquid Retina HD display",
+      "Dual-camera system",
+      "Face ID",
+      "All-day battery life"
+    ],
+    "picture": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg"
+  },
+  {
+    "id": 6,
+    "name": "iPhone XR",
+    "brand": "Apple",
+    "price": "$599",
+    "release_date": "October 26, 2018",
+    "features": [
+      "A12 Bionic chip",
+      "6.1-inch Liquid Retina HD display",
+      "Single-camera system",
+      "Face ID",
+      "Colorful design"
+    ],
+    "picture": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg"
+  },
+  {
+    "id": 7,
+    "name": "iPhone 13 mini",
+    "brand": "Apple",
+    "price": "$699",
+    "release_date": "September 24, 2021",
+    "features": [
+      "A15 Bionic chip",
+      "5.4-inch Super Retina XDR display",
+      "Dual-camera system",
+      "5G capable",
+      "Ceramic Shield front cover"
+    ],
+    "picture": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
+  },
+  {
+    "id": 8,
+    "name": "iPhone 11 Pro",
+    "brand": "Apple",
+    "price": "$999",
+    "release_date": "September 20, 2019",
+    "features": [
+      "A13 Bionic chip",
+      "5.8-inch Super Retina XDR display",
+      "Pro camera system",
+      "Face ID",
+      "Stainless steel and glass design"
+    ],
+    "picture": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg"
+  },
+  {
+    "id": 9,
+    "name": "iPhone 12",
+    "brand": "Apple",
+    "price": "$799",
+    "release_date": "October 23, 2020",
+    "features": [
+      "A14 Bionic chip",
+      "6.1-inch Super Retina XDR display",
+      "Dual-camera system",
+      "5G capable",
+      "Ceramic Shield front cover"
+    ],
+    "picture": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg"
+  },
+  {
+    "id": 10,
+    "name": "iPhone X",
+    "brand": "Apple",
+    "price": "$899",
+    "release_date": "November 3, 2017",
+    "features": [
+      "A11 Bionic chip",
+      "5.8-inch Super Retina display",
+      "Dual-camera system",
+      "Face ID",
+      "Animoji and Memoji"
+    ],
+    "picture": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg"
+  }
+]
